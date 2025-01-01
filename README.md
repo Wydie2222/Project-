@@ -1,6 +1,6 @@
 <h1>Prédiction du Diabète</h1>
 
-<h1>Objectifs</h1>
+<h2>Objectifs</h2>
 - Identifier les individus présentant un risque de diabète à partir de données médicales.
 - Utiliser des techniques de prétraitement des données et d'extraction des caractéristiques pour améliorer les performances des modèles.
 - Comparer plusieurs algorithmes afin de sélectionner le modèle offrant la meilleure précision et fiabilité.
