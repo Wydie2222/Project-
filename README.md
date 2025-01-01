@@ -28,6 +28,7 @@ Les performances des modèles sont représentées par un graphique comparant les
 Les modèles développés permettent de fournir des prédictions fiables pour la détection précoce du diabète. Cela contribue à mieux cibler les individus à risque et à optimiser les efforts de prévention et de traitement.
 
 <h2>Utilisation</h2>
+
 1. **Prérequis** :
    - Python 3.8 ou supérieur
    - Librairies nécessaires : `pandas`, `numpy`, `matplotlib`, `seaborn`, `scikit-learn`, `xgboost`
