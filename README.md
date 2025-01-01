@@ -1,4 +1,4 @@
-Prédiction du Diabète avec l'Apprentissage Automatique
+Prédiction du Diabète 
 Objectifs
 - Identifier les individus présentant un risque de diabète à partir de données médicales.
 - Utiliser des techniques de prétraitement des données et d'extraction des caractéristiques pour améliorer les performances des modèles.
