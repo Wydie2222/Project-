@@ -31,7 +31,7 @@ Les modèles développés permettent de fournir des prédictions fiables pour la
 
 1. **Prérequis** :
    - Python 3.8 ou supérieur
-   - Librairies nécessaires : `pandas`, `numpy`, `matplotlib`, `seaborn`, `scikit-learn`, `xgboost`
+   - Librairies nécessaires : `pandas`, `numpy`, `matplotlib`, `seaborn`, `scikit-learn`
 
 2. **Exécution** :
    - Exécuter le fichier Jupyter Notebook fourni (`Diabete.ipynb`) pour reproduire les étapes du projet.
