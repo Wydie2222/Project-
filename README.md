@@ -1,4 +1,4 @@
-*Prédiction du Diabète*
+<h1>Prédiction du Diabète</h1>
 
 Objectifs
 - Identifier les individus présentant un risque de diabète à partir de données médicales.
