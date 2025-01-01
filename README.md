@@ -7,6 +7,7 @@
 - Comparer plusieurs algorithmes afin de sélectionner le modèle offrant la meilleure précision et fiabilité.
 
 <h2>Contenu du projet</h2>
+
 Le projet suit une méthodologie structurée en plusieurs étapes :
 1. **Analyse des données** : Compréhension et exploration des données médicales.
 2. **Prétraitement des données** : Nettoyage, gestion des valeurs manquantes et normalisation des données.
